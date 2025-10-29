@@ -15,16 +15,41 @@ I am currently learning Data Science, and I am constantly learning new skills an
 
 ## 🛠️ Skills
 
-- **Languages**: Python, SQL, MongoDB
-- **Libraries/Frameworks**: 
-  - **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn
-  - **Machine Learning/AI**: TensorFlow, Keras, XGBoost, LightGBM
-  - **Deep Learning**: PyTorch, Keras
-  - **Natural Language Processing**: NLTK, spaCy
-  - **Data Visualization**: Plotly, Tableau
-- **Databases**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
-- **Tools/Platforms**: Jupyter Notebook, Google Colab
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 📊 Data Science & ML Libraries
+<p align="left">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4E89AE?style=for-the-badge&logoColor=white" />
+</p>
+
+### 📈 Data Visualization
+<p align="left">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
 
 ---
 
@@ -36,5 +61,3 @@ I am currently learning Data Science, and I am constantly learning new skills an
 Thank you for visiting my GitHub! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss data science.
 
 ---
-
-
